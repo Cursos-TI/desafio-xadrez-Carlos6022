@@ -87,7 +87,6 @@ int main() {
             if(passoHorizontal < 1) {
                 printf("Direita\n");
                 passoHorizontal++;
-                // break não é necessário aqui, mas poderia ser usado se fosse interromper cedo
             }
         }
     }
